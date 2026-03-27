@@ -11,7 +11,13 @@
 <p align="center">
   Production-ready Web3 full-stack template
 
-🔗 **[Live Demo](https://multisig-demo-xi.vercel.app)** | [Login Page](https://multisig-demo-xi.vercel.app/login.html) | [Multi-sig Center](https://multisig-demo-xi.vercel.app/multisig.html) with multi-signature wallet, BSC + TRON dual-chain support, HD wallet derivation, RBAC permissions, and automated fund management workflows.
+Production-ready Web3 full-stack template with multi-signature wallet, BSC + TRON dual-chain support, HD wallet derivation, RBAC permissions, and automated fund management workflows.
+</p>
+
+<p align="center">
+  🔗 <a href="https://multisig-demo-xi.vercel.app">Live Demo</a> | <a href="https://multisig-demo-xi.vercel.app/login.html">Login</a> | <a href="https://multisig-demo-xi.vercel.app/multisig.html">Multi-sig</a> | <a href="https://multisig-demo-xi.vercel.app/payouts.html">Payouts</a>
+  <br/>
+  <sub>⚠️ UI demo only — static pages for preview, not connected to backend API</sub>
 </p>
 
 ---
